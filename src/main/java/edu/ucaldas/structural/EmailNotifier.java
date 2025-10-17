@@ -6,4 +6,3 @@ public class EmailNotifier implements Notifier {
         return "Email enviado: " + message;
     }
 }
-
